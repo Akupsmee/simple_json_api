@@ -4,7 +4,7 @@
 - npm init -y
 -npm i -g json-server
 -add your json file
-// {
+-  e.g. {
   "users": [
     {
       "id": 1,
@@ -18,7 +18,7 @@
       "last_name": "Bauer",
       "email": "annab56@gmail.com"
       }
-      //
+      
     },-json-server --watch users.json 
     
     
